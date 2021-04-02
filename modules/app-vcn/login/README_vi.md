@@ -32,7 +32,19 @@ Sau đó đăng nhập.
 
 Sau khi quét thành công sẽ đăng nhập vào tài khoản đã đăng ký theo mã thiết bị đó.
 
+
 > Áp dụng cho đăng nhập lần đầu tiên và chưa đổi mật khẩu kể từ lúc quét mã QR.
+
+* Trong trường hợp mã QR bị mờ, rách không quét được. Người dùng có thể dựa vào ID thiết bị để **đăng nhập** mặc định theo cách sau.:
+
+    * **Tài khoản** : dinhvidouble + 8 số cuối của ID thiết bị.
+    * **Mật khẩu**  : 6 số cuối của ID thiết bị.
+
+Ví dụ : Đăng nhập như ảnh dưới đây :
+
+<span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/qr-code-1.jpg) 
+
+
 
 ### Cách 3 : Nhớ tài khoản đăng nhập
 

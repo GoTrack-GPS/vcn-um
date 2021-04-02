@@ -6,13 +6,36 @@ Vào mục **Bản đồ** , màn hình hiển thị như hình dưới đây :
 
 <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-refresh.svg) Làm mới trang bản đồ về chế độ mặc định. 
 
+#### Quy ước màu trạng thái
+ <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/map/color-mode.png)
+
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circlegreen">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : Xe đang ở trạng thái tắt máy
+
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circlered">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : Xe đang dừng.
+
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circleyellow">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : Xe đang dừng nhưng vẫn nổ máy.
+
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circlepurple">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : GPS kém.
+
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circleden">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : GPRS kém.
+
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circlexam">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : Truyền lịch sử.
+
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circlenau">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : Hết hạn sử dụng dịch vụ.
+
+* Khi icon xe hiển thị   <span class="icon-left svg-filter-circlexamtro">![Ok](/docs/assets/images/web-interface/icon/SVG/circle1.svg) : Chưa kích hoạt thiết bị.
+
 #### 1. Mật độ giao thông 
 * Click vào **biểu tượng đèn giao thông** để bật / tắt chế độ hiển thị mật độ các tuyến đường.
 * Màu càng đậm thì mật độ giao thông càng nhiều, càng đông.
+
 ####  2. Chế độ hiển thị trên bản đồ 
+
+ 
  Bản đồ đường bộ / Vệ tinh.
 
 #### 3. Tên hiển thị
+
  Click vào **T** để bật / tắt tên hiển thị đi kèm với biểu tượng xe
 
  <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-vcn/name.jpg) 
