@@ -23,9 +23,9 @@
       search: 'auto',
       themeColor: '#f6931c',
       // coverpage: 'docs/_coverpage.md',
-      homepage: 'README.md',
-      loadSidebar: 'docs/_sidebar.md',
-      loadNavbar: 'docs/_navbar.md',
+      homepage: 'README_vi.md',
+      loadSidebar: 'docs/_sidebar_vi.md',
+      // loadNavbar: 'docs/_navbar.md',
       auto2top: true,
       maxLevel: 8,
       subMaxLevel: 4,
@@ -37,10 +37,11 @@
         '/.*/_navbar.md': 'docs/_navbar.md',
         // sidebar
         '/vi/.*/_sidebar.md': 'docs/_sidebar_vi.md',
+        '/vi/.*/_sidebar_vi.md': 'docs/_sidebar_vi.md',
         '/modules/.*/_sidebar.md': 'docs/_sidebar.md',
         '/vi/': 'README_vi.md',
         '/vi/modules/(.*)/': 'modules/$1/README_vi.md',
-        '/vi/CHANGELOG': 'CHANGELOG_vi.md',
+        '/vi/CHANGELOG': 'CHANGELOG_vi.md'
       },
       markdown: {
         renderer: {
@@ -49,8 +50,8 @@
           }
         }
       },
-      basePath: location.port === '8000' ? '/' : '/', //'/vcn-um/',
-      repo: 'gotrack-gps/vcn-um',
+      basePath: location.port === '8000' ? '/' : '/',
+      // repo: 'gotrack-gps/vcn-um',
       ga: '',
       search: {
         depth: 3,
