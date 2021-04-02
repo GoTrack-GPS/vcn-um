@@ -1,1 +1,0 @@
-# Search decvice english

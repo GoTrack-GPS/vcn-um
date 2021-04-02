@@ -1,1 +1,0 @@
-# Edit decvice english
