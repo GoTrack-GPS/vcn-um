@@ -48,10 +48,10 @@
   * **Vùng cảnh báo**
 
 **Ứng dụng app-vcn**
-   * [Map Tracking](vi/modules/app-vcn-apps/map/)
-   * [Devices](vi/modules/app-vcn-apps/devices/)
-   * [Notifications](vi/modules/app-vcn-apps/notifications/)
-   * [Account](vi/modules/app-vcn-apps/account/)
+   * [Map Tracking](vi/modules/mobile-apps/map/)
+   * [Devices](vi/modules/mobile-apps/devices/)
+   * [Notifications](vi/modules/mobile-apps/notifications/)
+   * [Account](vi/modules/mobile-apps/account/)
 
 **Câu hỏi thường gặp**
 
