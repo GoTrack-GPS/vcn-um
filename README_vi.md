@@ -1,8 +1,8 @@
 # Giới thiệu 
 
-**Giám sát xe VCN** một phần mềm GPS để giám sát xe với nhiều tính năng ưu việt. Bạn hoàn toàn có thể theo dõi vị trí xe đang ở đâu, phòng trường hợp khẩn cấp, bạn hoàn toàn có thể nắm rõ tình hình xe trong tầm kiểm soát của mình.
+**Giám sát xe VCN** một ứng dụng định vị GPS để giám sát xe với nhiều tính năng ưu việt. Bạn hoàn toàn có thể theo dõi vị trí xe đang ở đâu, phòng trường hợp khẩn cấp, bạn hoàn toàn có thể nắm rõ tình hình xe trong tầm kiểm soát của mình.
 
-**Phần mềm định vị Giám sát xe VCN có rất nhiều chức năng khiến người dùng khó mà chối từ**:
+**Ứng dụng định vị Giám sát xe VCN có rất nhiều chức năng khiến người dùng khó mà chối từ**:
 - Có thể theo dõi nhiều thiết bị trên một bản đồ duy nhất.
 - Giám sát trực tuyến: Vị trí, hướng di chuyển, trạng thái, tốc độ xe với thời gian thực (realtime).
 - Lưu trữ và Xem lại lộ trình di chuyển: Trong một tháng gần nhất hoặc tùy chọn.
