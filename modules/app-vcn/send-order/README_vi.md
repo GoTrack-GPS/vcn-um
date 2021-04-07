@@ -11,6 +11,8 @@
 
 **Tính năng chống quên tắt Núm vặn cho xe máy Smart key Honda** 
 
+#### Khôi phục tắt máy 
+
 * Nếu quên tắt núm 150s mà không còn sự tác động rung lắc xe thì xe sẽ tự động sập nguồn để bảo vệ acquy và thiết bị vào chế độ chống trộm. Muốn khởi động nguồn điện xe vào app thực hiện như sau:
 
     - Bước 1 : Vào mục **Thêm > Gửi lệnh**.
@@ -24,6 +26,8 @@
 <div id = "unlock">
 </div>
 
+#### Tắt máy từ xa
+
 * Nếu muốn tắt thiết bị từ xa để bảo vệ acquy mà không cần tắt núm thì dùng lệnh sau:
     * Click vào  **Tắt máy từ xa**.
 
@@ -31,7 +35,7 @@
 
 
 
-
+#### Tự động khóa máy
 * Nếu núm bị hỏng / muốn khóa xe ngay từ xa. Muốn **tự động khóa** thì bạn vào app thực hiện như sau:
 
     - Bước 1 : Vào mục **Thêm > Gửi lệnh**.

@@ -135,12 +135,10 @@ python -m SimpleHTTPServer 3000
 ### Launch web server (Python 3.x)
 1. MACOS
 ``` 
-python -m http.server 3000
+python -m http.server 8000
 ```
 2. Window
 ```
-py -m http.server 3000
-
 py -m http.server 8000
 ```
 - trỏ tới 1 đoạn trong trang 
