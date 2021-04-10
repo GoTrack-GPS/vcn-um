@@ -8,17 +8,15 @@
 
 Sau đó đăng nhập. 
 
-> Khi đăng nhập thành công lần đầu tiên, để sử dụng được những tính năng liên quan đến vị trí, bạn hãy chọn **CHỈ CHO PHÉP KHI DÙNG ỨNG DỤNG** để **Cho phép Giám sát xe VCN truy cập vào vị trí của thiết bị**
-
-<span  class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-vcn/location-2-login.jpg)
-
 ### Cách 1 : Đăng nhập thủ công
 
-<span class="icon-left4" >![Interface Web](/docs/assets/images/web-interface/app-vcn/login.jpg)
+<span style="display:block;text-align:center" >![Interface Web](/docs/assets/images/web-interface/app-vcn/login.jpg)
 
 * Bước 1 : Nhập **Tài khoản**, **Mật khẩu** đã đăng ký.
 
 * Bước 2 : Click vào **Đăng nhập** để hoàn thành thao tác. 
+
+* Bước 3 : Chọn **CHỈ CHO PHÉP KHI DÙNG ỨNG DỤNG** để **Cho phép Giám sát xe VCN truy cập vào vị trí của thiết bị**. Sử dụng được những tính năng liên quan đến vị trí.
 
 ### Cách 2 : Quét mã QR
 
@@ -54,9 +52,7 @@ Ví dụ : Đăng nhập như ảnh dưới đây :
 
 * Bước 2 : Chọn tài khoản muốn đăng nhập nhanh vào app.
 
+* Bước 2 : Vào ứng dụng với tên tài khoản vừa đăng nhập.
+
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/qr-code-done.jpg) 
 
-> Sau khi đăng nhập thành công lần đầu tiên, để sử dụng được những tính năng liên quan đến vị trí, bạn hãy thực hiện như hình dưới đây :
-Chọn **CHỈ CHO PHÉP KHI DÙNG ỨNG DỤNG** để **Cho phép Giám sát xe VCN truy cập vào vị trí của thiết bị**
-
-<span  class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-vcn/location-2-login.jpg)
