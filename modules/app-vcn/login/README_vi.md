@@ -30,7 +30,7 @@ Sau đó đăng nhập.
 
 Sau khi quét thành công sẽ đăng nhập vào tài khoản đã đăng ký theo mã thiết bị đó.
 
-
+Bạn có thể xem  **video hướng dẫn** <a href="https://bitly.com.vn/g76lpl " target="_blank">tại đây</a>
 > Áp dụng cho đăng nhập lần đầu tiên và chưa đổi mật khẩu kể từ lúc quét mã QR.
 
 * Trong trường hợp mã QR bị mờ, rách không quét được. Người dùng có thể dựa vào ID thiết bị để **đăng nhập** mặc định theo cách sau.:
