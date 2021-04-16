@@ -19,7 +19,7 @@ Màn hình **Giám sát**  gồm
     * Trạng thái khóa điện của thiết bị 
 
 ### 2. Xem lại
-Để xem lại lịch sử di chuyển của xe : Click vào **Xem lại** ( chọn ngày tháng cần xem, chọn theo lựa chọn có sẵn hoặc tùy chọn). 
+Để xem lại lịch sử di chuyển của xe : Click vào **Xem lại** ( Vào <span class="icon-left svg-filter-serch">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-maintenance-date.svg) chọn ngày tháng cần xem, chọn theo lựa chọn có sẵn hoặc tùy chọn). 
 
 Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cập nhật lên lộ trình xe chạy như hình dưới :
 
@@ -108,8 +108,7 @@ Ngoài ra, có thể tạo vùng chi tiết hơn [tại đây](vi/modules/app-vc
 <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-vcn/vi-tri-cua-ban.jpg) 
 
 
-Click vào icon hình người đó sẽ chuyển sang bản đồ Google 3D tại vị trí của thiết bị, chế độ xem phố và kèm theo những hình ảnh gần đó nhất mà bản đồ quét được. Nếu 
- 
+Click vào icon hình người đó sẽ chuyển sang bản đồ Google 3D tại vị trí của thiết bị, chế độ xem phố và kèm theo những hình ảnh gần đó nhất mà bản đồ quét được.
 
 #### 5. Tìm đường
 

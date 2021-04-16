@@ -16,7 +16,7 @@ Click vào **Đặt lại mật khẩu**. Sau đó vào kiểm tra mail.
 
 1. Người dùng vào mail trong ứng dụng **Gmail** trên điện thoại của bạn.
 Nếu bạn vào email của mình mà không thấy email của phần mềm hiển thị ở mục **Chính / Hộp thư đến** thì vào **Thư rác** trong ứng dụng **Gmail** trên điện thoại của bạn.
-    * Click vào email của phần mềm. Nhấn vào ô **Có vẻ an toàn** . 
+    * Click vào email của ứng dụng. Nhấn vào ô **Có vẻ an toàn** . 
 
 2. .Vào  <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/ellipsis-v.svg) bên phải trên cùng góc màn hình chọn **Báo cáo không phải Spam**
 
