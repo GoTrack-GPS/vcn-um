@@ -52,7 +52,7 @@ Ví dụ : Đăng nhập như ảnh dưới đây :
 
 * Bước 2 : Chọn tài khoản muốn đăng nhập nhanh vào app.
 
-* Bước 2 : Vào ứng dụng với tên tài khoản vừa đăng nhập.
+* Bước 3 : Vào ứng dụng với tên tài khoản vừa đăng nhập.
 
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/qr-code-done.jpg) 
 
