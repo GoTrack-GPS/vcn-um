@@ -49,7 +49,7 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
 <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-vcn/send-orders.jpg)
 
 Để tìm hiểu thêm chi tiết, bạn tham khảo tại đây
-* [Danh sách gửi lệnh](vi/modules/app-vcn/send-order/#send-order) <div id="send-order"> 
+* [Danh sách lệnh](vi/modules/app-vcn/send-order/#send-order) <div id="send-order"> 
 * [Lịch sử gửi lệnh](vi/modules/app-vcn/history-send-orders/#history) <div id="history"> 
 
 ### Tính năng mở rộng 
