@@ -80,7 +80,7 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
 
 * **Cách 2** : Vào **Gửi lệnh**.
 
-    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-vcn/device/#lock) <div id="lock"> 
+    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-vcn/send-order/#lock) <div id="lock"> 
 
 #### 2. Khôi phục tắt máy
 * **Cách 1**: 
@@ -91,7 +91,7 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
 
 * **Cách 2** : Vào **Gửi lệnh**.
 
-    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-vcn/device/#unlock) <div id="unlock"> 
+    Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-vcn/send-order/#unlock) <div id="unlock"> 
 
 
 

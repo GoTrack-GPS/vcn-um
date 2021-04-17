@@ -4,12 +4,14 @@
 - Bước 1 : Vào mục **Thêm > Gửi lệnh**.
 - Bước 2 : Hiển thị ra danh sách lệnh. Click vào từng lệnh cần thực hiện.
 
-<div id = "lock">
-</div>
+
 
 ### Tắt máy từ xa / Khôi phục tắt máy
 
 **Tính năng chống quên tắt Núm vặn cho xe máy Smart key Honda** 
+
+<div id = "unlock">
+</div>
 
 #### Khôi phục tắt máy 
 
@@ -23,7 +25,7 @@
 
 * Nếu chủ động tắt núm thì khi cho xe khởi động lại **KHÔNG CẦN** vào app để **Khôi phục tắt máy**.
 
-<div id = "unlock">
+<div id = "lock">
 </div>
 
 #### Tắt máy từ xa
