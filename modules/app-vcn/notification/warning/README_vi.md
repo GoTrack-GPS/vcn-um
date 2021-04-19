@@ -5,6 +5,12 @@
 
 <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-vcn/warning-2.jpg)
 
+### Update cảnh báo
+
+Kéo xuống để làm mới dữ liệu
+
+<span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-vcn/update-notification.jpg)
+
 ### Cài đặt cảnh báo 
 
 <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/setting-warning-3.jpg)

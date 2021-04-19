@@ -56,7 +56,7 @@ Bật / tắt hiển thị điểm đánh dấu trên bản đồ. Người dùn
 
 #### 6. Vị trí của bạn
 
-> Để tìm được vị trí của máy, người dùng cần phải cài đặt cho phép máy truy cập vị trí khi sử dùng phần mềm. 
+> Để tìm được vị trí của máy, người dùng cần phải cài đặt cho phép máy truy cập vị trí khi sử dùng ứng dụng. 
 
 Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-hunt-50.png) sẽ trỏ đến vị trí của bạn hiện tại.
 

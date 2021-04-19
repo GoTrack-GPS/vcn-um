@@ -47,6 +47,20 @@ Tạo điểm đánh dấu trên bản đồ để tiện trên việc giám sá
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-vcn/edit-poi-4.jpg)
 
+### Xóa điểm đánh dấu
+
+* Android : 
+Để xóa điểm đánh dấu, nhấn giữ điểm muốn xóa. Lát sau sẽ hiển thị hộp thoại như hình dưới đây: 
+    * Nhấn **OK** nếu muốn xóa.
+
+    <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-vcn/delete-poi.jpg)
+
+* IOS : 
+Để xóa điểm đánh dấu, trượt sang trái điểm muốn xóa .
+
+
+
+
 
 
 

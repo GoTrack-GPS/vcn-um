@@ -47,6 +47,16 @@ Click **Lưu** để hoàn thành tháo tác
 * **Bước 4** : Sửa tên, nhập ghi chú cảnh báo.
 Click **Lưu** để hoàn thành thao tác
 
+### Xóa vùng cảnh báo
+
+* Android : 
+Để xóa vùng cảnh báo, **nhấn giữ vùng muốn xóa**. Lát sau sẽ hiển thị hộp thoại như hình dưới đây: 
+    * Nhấn **OK** nếu muốn xóa.
+
+    <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-vcn/delete-geofence.jpg)
+
+* IOS : 
+    Để xóa vùng cảnh báo, **trượt sang trái vùng muốn xóa** . Sẽ xuất hiện hộp thoại xác nhận xóa vùng cảnh báo.
 
 
 
