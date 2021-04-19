@@ -1,9 +1,9 @@
 # Đăng nhập
 
-* Đầu tiên, bấm để tải ngay ứng dụng **Giam sat xe VCN** cho <a href="https://bitly.com.vn/cenayw" target="_blank">IOS</a> và <a href="https://bitly.com.vn/sg61yb" target="_blank">Android </a>
+* Đầu tiên, bấm để tải ngay ứng dụng **Giam sat xe VCN** cho <a href="https://apple.co/32nBNdO" target="_blank">IOS</a> và <a href="https://bit.ly/3srpmZ1" target="_blank">Android </a>
 
-<span class="icon-left1 ">[<img src="/docs/assets/images/web-interface/app-vcn/images.png">](https://bitly.com.vn/cenayw)
-<span class="icon-left2">[<img src="/docs/assets/images/web-interface/app-vcn/google-play-download-android-app.png" >](https://bitly.com.vn/sg61yb) 
+<span class="icon-left1 ">[<img src="/docs/assets/images/web-interface/app-vcn/images.png">](https://apple.co/32nBNdO)
+<span class="icon-left2">[<img src="/docs/assets/images/web-interface/app-vcn/google-play-download-android-app.png" >](https://bit.ly/3srpmZ1) 
 
 
 Sau đó đăng nhập. 
