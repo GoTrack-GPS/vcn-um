@@ -56,22 +56,22 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
 
 <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-vcn/home-3.jpg)
 
-**1**. Tắt máy từ xa
+    1. Tắt máy từ xa
 
-**2**. Khôi phục tắt máy
+    2. Khôi phục tắt máy
 
-**3**. Tạo vùng nhanh
+    3. Tạo vùng nhanh
 
-**4**. Google Maps 3D
+    4. Google Maps 3D
 
-**5**. Tìm đường 
+    5. Tìm đường 
 
 <div id="other" >
 </div>
 
 ####  1. Tắt máy từ xa
-* **Cách 1**: 
-    * Click vào <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-lock.svg) . Hộp thoại xuất hiện như hình dưới đây . Chọn **OK**  .. 
+* **Cách 1** 
+    * Click vào <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-lock.svg) . Hộp thoại xuất hiện như hình dưới đây . Chọn **OK** .
     * Sau khi gửi lệnh thành công. Màn hình thông tin của thiết bị => **Thiết bị : Phòng vệ bật**
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-vcn/tat-may-tu-xa.jpg)
@@ -83,7 +83,7 @@ Ví dụ: Chọn ngày **Hôm nay > Nhấn OK**. trên màn hình lúc này cậ
     Để tìm hiểu thêm chi tiết, bạn tham khảo [tại đây](vi/modules/app-vcn/send-order/#lock) <div id="lock"> 
 
 #### 2. Khôi phục tắt máy
-* **Cách 1**: 
+* **Cách 1**
     * Click vào <span class="icon-left">![Ok](/docs/assets/images/web-interface/icon/SVG/icons8-unlock-52.png) . Hộp thoại xuất hiện như hình dưới đây . Chọn **OK**  .. 
     * Sau khi gửi lệnh thành công. Màn hình thông tin của thiết bị => **Thiết bị : Phòng vệ tắt**
 
