@@ -49,13 +49,13 @@ Tạo điểm đánh dấu trên bản đồ để tiện trên việc giám sá
 
 ### Xóa điểm đánh dấu
 
-* Android : 
+* **Android** 
 Để xóa điểm đánh dấu, nhấn giữ điểm muốn xóa. Lát sau sẽ hiển thị hộp thoại như hình dưới đây: 
     * Nhấn **OK** nếu muốn xóa.
 
     <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-vcn/delete-poi.jpg)
 
-* IOS : 
+* **IOS**  
 Để xóa điểm đánh dấu, trượt sang trái điểm muốn xóa .
 
 
