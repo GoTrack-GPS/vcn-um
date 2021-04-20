@@ -13,11 +13,13 @@ Tạo điểm đánh dấu trên bản đồ để tiện trên việc giám sá
 
 - **Bước 2** : Click vào <span class="icon-left svg-filter-info">![Ok](/docs/assets/images/web-interface/icon/SVG/plus.svg) để tạo mới điểm đánh dấu.
 
-    Chạm vào màn  hình, thu phóng và di chuyển để chọn điểm muốn đánh dấu.
+    
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-vcn/create-poi-3.jpg)
 
-* **Bước 3** : Click **Lưu** để lưu tạm điểm mới chọn đó.
+* **Bước 3** : **Chạm vào màn  hình, thu phóng và di chuyển** để chọn điểm muốn đánh dấu.
+
+    Click **Lưu** để lưu tạm điểm mới chọn đó.
 
     Click **Đặt lại** để tạo lại từ đầu.
 
@@ -37,9 +39,9 @@ Tạo điểm đánh dấu trên bản đồ để tiện trên việc giám sá
 
 - **Bước 3** : **Sửa điểm đánh dấu**, thu phóng, di chuyển đến nơi bạn muốn đánh dấu
 
-    * Click **Lưu** để lưu tạm vùng mới chọn đó.
+    * Click **Lưu** để lưu tạm đi mới chọn đó.
 
-    Click **Đặt lại** để tạo lại từ đầu.
+        Click **Đặt lại** để tạo lại từ đầu.
 
 * **Bước 4** : **Sửa tên, nhập ghi chú** điểm đánh dấu. Chọn lại **icon**.
 
@@ -47,10 +49,12 @@ Tạo điểm đánh dấu trên bản đồ để tiện trên việc giám sá
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-vcn/edit-poi-4.jpg)
 
+
 ### Xóa điểm đánh dấu
 
 * **Android** 
 Để xóa điểm đánh dấu, nhấn giữ điểm muốn xóa. Lát sau sẽ hiển thị hộp thoại như hình dưới đây: 
+
     * Nhấn **OK** nếu muốn xóa.
 
     <span class="icon-left4">![Interface Web](/docs/assets/images/web-interface/app-vcn/delete-poi.jpg)

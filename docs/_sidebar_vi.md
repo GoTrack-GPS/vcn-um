@@ -21,8 +21,6 @@
     - [Quản lý tài khoản](vi/modules/app-vcn/account-management/)
     - [Điểm đánh dấu](vi/modules/app-vcn/poi/)
     - [Vùng cảnh báo](vi/modules/app-vcn/warning-area/)   
-
-   
 <!-- 
 
 **Câu hỏi thường gặp**
