@@ -43,7 +43,7 @@
 
 > **Lưu ý :**
  
-* Trong trường hợp thiết bị đang online, **đang** thực hiện lệnh **Tắt máy từ xa - Thiết bị : phòng vệ bật** . Mà lát sau thiết bị mất tín hiệu, đang trạng thái **offline** mà bạn muốn **Khôi phục tắt máy** thì thực hiện như sau :
+* Trong trường hợp thiết bị offline , GPRS kém( icon màu đen ) mà bạn muốn **Khôi phục tắt máy** thì gửi lệnh SOS như sau :
   
     <span style="display:block;text-align:center">![Interface Web](/docs/assets/images/web-interface/app-vcn/engine-on.jpg)
 
