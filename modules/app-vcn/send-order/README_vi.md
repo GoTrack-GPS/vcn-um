@@ -1,19 +1,26 @@
 # Danh sách lệnh
+
 <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-vcn/send-orders-2.jpg)
 
 - Bước 1 : Vào mục **Thêm > Gửi lệnh**.
 - Bước 2 : Hiển thị ra danh sách lệnh. Click vào từng lệnh cần thực hiện.
 
+## Tắt máy từ xa / Khôi phục tắt máy
 
+<div id = "lock">
+</div>
 
-### Tắt máy từ xa / Khôi phục tắt máy
+### Tắt máy từ xa
 
-**Tính năng chống quên tắt Núm vặn cho xe máy Smart key Honda** 
+* Nếu muốn tắt thiết bị từ xa để bảo vệ acquy mà không cần tắt núm thì dùng lệnh sau:
+    * Click vào  **Tắt máy từ xa**.
+
+        <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-vcn/send-orders-7.jpg)
 
 <div id = "unlock">
 </div>
 
-#### Khôi phục tắt máy 
+### Khôi phục tắt máy 
 
 * Nếu quên tắt núm 150s mà không còn sự tác động rung lắc xe thì xe sẽ tự động sập nguồn để bảo vệ acquy và thiết bị vào chế độ chống trộm. Muốn khởi động nguồn điện xe vào app thực hiện như sau:
 
@@ -22,22 +29,12 @@
 
     <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-vcn/turn-off-the-device.jpg)
 
-
 * Nếu chủ động tắt núm thì khi cho xe khởi động lại **KHÔNG CẦN** vào app để **Khôi phục tắt máy**.
 
-<div id = "lock">
-</div>
 
-#### Tắt máy từ xa
+**Tính năng chống quên tắt Núm vặn cho xe máy Smart key Honda** 
 
-* Nếu muốn tắt thiết bị từ xa để bảo vệ acquy mà không cần tắt núm thì dùng lệnh sau:
-    * Click vào  **Tắt máy từ xa**.
-
-        <span class="icon-left5">![Interface Web](/docs/assets/images/web-interface/app-vcn/send-orders-7.jpg)
-
-
-
-#### Tự động khóa máy
+### Tự động khóa máy
 * Nếu núm bị hỏng / muốn khóa xe ngay từ xa. Muốn **tự động khóa** thì bạn vào app thực hiện như sau:
 
     - Bước 1 : Vào mục **Thêm > Gửi lệnh**.

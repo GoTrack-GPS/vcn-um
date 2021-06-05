@@ -7,7 +7,7 @@
   - **Bản đồ**
     - [Giám sát tổng quát ](vi/modules/app-vcn/general-device-monitoring/)
     - [Giám sát chi tiết](vi/modules/app-vcn/detailed-monitoring/)
-  
+    - [Tính năng mở rộng ](vi/modules/app-vcn/send-command/)
   
   - **Thiết bị**
     - [Quản lý thiết bị](vi/modules/app-vcn/device/)
